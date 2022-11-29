@@ -1,0 +1,54 @@
+.c1{
+    width: 100px;
+    height: 80px;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    
+}
+.c2{
+    width: 100px;
+    height: 80px;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    
+}
+.c3{
+    width: 100px;
+    height: 80px;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    
+}
+.c4{
+    width: 100px;
+    height: 80px;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    flex: 2;
+    
+}
+.c5{
+    width: 100px;
+    height: 80px;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    
+}
+.c6{
+    width: 100px;
+    height: 80px;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    
+}
+div{
+    margin: 5px;
+    display: flex;
+    flex: 1;
+}
